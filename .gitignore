@@ -3,3 +3,4 @@ terraform.tfstate
 terraform.tfplan
 plan.json
 provider_schemas.json
+terraform.tfstate.backup
